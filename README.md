@@ -18,3 +18,7 @@ Linear Regression: Supervised learning model that you train by giving data. It i
 4.) Univariate linear regression: the size is one variable (feature) x
 
 
+
+![image](https://github.com/user-attachments/assets/ee7c3cc4-66aa-4349-99d5-219c8c346e91)
+
+
