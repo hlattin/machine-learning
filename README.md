@@ -13,3 +13,4 @@ Unsupervised Learning: There is no Y value to label the data. We are looking for
 
 Linear Regression: Supervised learning model that you train by giving data. It is a Regression model, because it perdicts numbers as the output. 
 
+
