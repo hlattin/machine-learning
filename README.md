@@ -22,3 +22,10 @@ Linear Regression: Supervised learning model that you train by giving data. It i
 ![image](https://github.com/user-attachments/assets/ee7c3cc4-66aa-4349-99d5-219c8c346e91)
 
 
+Cost Function: Tells us how well the model is doing. W and B are called the parameters. The variables you can adj during training to improve the model (weights, and coefficient). 
+- F(X) = w x + b
+- We want to align the parameters as close as we can to the training example.
+- How do we find values for W and B to get close to the targets for x and y
+- Construct a cost function: takes y hat and compares it to the target y (Yhat - y)^2
+- <img width="1200" height="594" alt="image" src="https://github.com/user-attachments/assets/835a364d-9555-4556-adb4-393c89f342a8" />
+- we want to find values where w and b make the cost function small.
